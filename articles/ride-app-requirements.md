@@ -463,3 +463,4 @@ geohash length 7 cell, m                   153 x    153
 - [**Redis geospatial indexes**](https://redis.io/docs/latest/develop/data-types/geospatial/): GEOADD、GEOSEARCH と計算量。
 
 この記事は、一般的な配車アプリの設計を例にした、よくあるパターンの簡単な説明です。特定の企業の非公開システムを説明したものではありません。仮定と書かれた数字は、練習のための例です。
+
